@@ -8,3 +8,4 @@
 *mkdir /temp/holberton/= crea un directorio en la carpeta temp
 *mv /betty/tmp/ /tmp/holberton/= Mueve el archivo betty de / tmp / a / tmp / holberton.
 *rm /tmp/holberton/betty =elimina un archivo de una carpeta.
+*rmkdir /tmp/holberton/=elimina el directorio holberton.
