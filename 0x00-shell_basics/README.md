@@ -1,0 +1,1 @@
+# pwd= comando que muestra en pantalla la ruta actual del directorio de trabajo
