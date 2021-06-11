@@ -5,3 +5,4 @@
 *ls -l= comando que muestra la lista de archivos en formato largo.
 *ls -la= comando que muestra la lista en formato largo, incluyendo los archivos ocultos
 *ls -lan= Formato largocon ID de usuario y grupo mostrados numéricamente Y archivos ocultos (comenzando con.)
+*mkdir /temp/holberton/= crea un directorio en la carpeta temp
